@@ -28,6 +28,7 @@ F.AddChild(I);
 
 Console.WriteLine(root);
 Console.WriteLine(A);
+/*
 Console.WriteLine(B);
 Console.WriteLine(C);
 Console.WriteLine(D);
@@ -35,5 +36,5 @@ Console.WriteLine(E);
 Console.WriteLine(F);
 Console.WriteLine(G);
 Console.WriteLine(H);
-Console.WriteLine(I);
+Console.WriteLine(I); */
 

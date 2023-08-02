@@ -24,8 +24,3 @@ E.AddLeft(F);
 
 Console.WriteLine(root);
 Console.WriteLine(A);
-Console.WriteLine(B);
-Console.WriteLine(C);
-Console.WriteLine(D);
-Console.WriteLine(E);
-Console.WriteLine(F);
